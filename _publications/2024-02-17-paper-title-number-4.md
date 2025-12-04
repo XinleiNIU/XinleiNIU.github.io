@@ -2,7 +2,7 @@
 title: "Soundlocd: An efficient conditional discrete contrastive latent diffusion model for text-to-sound generation"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/2024-04-01-paper-title-number-4
 excerpt: 'Oral presentation'
 date: 2024-04-01
 venue: 'ICASSP'

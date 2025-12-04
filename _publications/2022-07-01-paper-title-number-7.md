@@ -2,7 +2,7 @@
 title: "Spatial-temporal-class attention network for acoustic scene classification"
 collection: publications
 category: conference
-permalink: /publication/2024-02-17-paper-title-number-7
+permalink: /publication/2022-07-01-paper-title-number-7
 excerpt: 'Oral presentation'
 date: 2022-07-01
 venue: 'ICME'

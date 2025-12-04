@@ -2,10 +2,10 @@
 title: "Latent Optimal Paths by Gumbel Propagation for Variational Bayesian Dynamic Programming"
 collection: publications
 category: conference
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2024-07-01-paper-title-number-3
 # excerpt: 'Oral presentation.'
 date: 2024-07-01
-venue: 'ICML 2024'
+venue: 'ICML'
 slidesurl: 'https://github.com/XinleiNIU/LatentOptimalPathsBayesianDP'
 paperurl: 'https://arxiv.org/pdf/2306.02568'
 # citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'

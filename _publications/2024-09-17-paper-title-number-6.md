@@ -1,13 +1,13 @@
 ---
-title: "Beyond Video-to-SFX: Video to Audio Synthesis with Environmentally Aware Speech"
+title: "SoundMorpher: Perceptually-Uniform Sound Morphing with Diffusion Model"
 collection: publications
 category: preprint
-permalink: /publication/2024-02-17-paper-title-number-5
+permalink: /publication/2024-09-17-paper-title-number-6
 excerpt: 'In submission'
-date: 2025-09-17
+date: 2024-09-17
 venue: 'In submission'
-slidesurl: 'https://xinleiniu.github.io/BVS-demo/'
-paperurl: 'https://arxiv.org/pdf/2509.15492'
+slidesurl: 'https://xinleiniu.github.io/SoundMorpher-demo/'
+paperurl: 'https://arxiv.org/pdf/2410.02144?'
 # citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 

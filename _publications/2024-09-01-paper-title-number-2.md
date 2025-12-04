@@ -2,7 +2,7 @@
 title: "Hybridvc: Efficient voice style conversion with text and audio prompts"
 collection: publications
 category: conference
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2024-09-01-paper-title-number-2
 # excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2024-09-01
 venue: 'InterSpeech'
