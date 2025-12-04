@@ -1,7 +1,7 @@
 ---
 title: "Latent Optimal Paths by Gumbel Propagation for Variational Bayesian Dynamic Programming"
 collection: publications
-category: manuscripts
+category: conference
 # permalink: /publication/2015-10-01-paper-title-number-3
 # excerpt: 'Oral presentation.'
 date: 2024-07-01

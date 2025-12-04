@@ -4,7 +4,7 @@ collection: publications
 category: preprint
 # permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'In submission'
-date: 2024-09-17
+date: 2025-09-17
 venue: 'In submission'
 slidesurl: 'https://xinleiniu.github.io/BVS-demo/'
 paperurl: 'https://arxiv.org/pdf/2509.15492'
