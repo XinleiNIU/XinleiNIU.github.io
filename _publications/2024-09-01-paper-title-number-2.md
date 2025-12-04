@@ -1,5 +1,5 @@
 ---
-title: "Hybridvc: Efficient voice style conversion with text and audio prompts"
+title: "HybridVC: Efficient Voice Style Conversion With Text and Audio Prompts"
 collection: publications
 category: conference
 permalink: /publication/2024-09-01-paper-title-number-2
