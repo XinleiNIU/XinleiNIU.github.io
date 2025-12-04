@@ -2,7 +2,7 @@
 title: "SoundMorpher: Perceptually-Uniform Sound Morphing with Diffusion Model"
 collection: publications
 category: preprint
-# permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/2024-02-17-paper-title-number-6
 excerpt: 'In submission'
 date: 2024-09-17
 venue: 'In submission'

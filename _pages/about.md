@@ -17,6 +17,3 @@ I'm a Ph.D candidate at Australian National University,where I work in the [Soun
 - Bayesian machine learning
 - Acoustic scene classification
 
-### More information, please refer to My [CV](/Xinlei_CV.pdf)
-
-

@@ -2,7 +2,7 @@
 title: "SteerMusic: Enhanced Musical Consistency for Zero-shot Text-Guided and Personalized Music Editing"
 collection: publications
 category: conference
-# permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Oral presentation'
 date: 2025-11-01
 venue: 'AAAI'
