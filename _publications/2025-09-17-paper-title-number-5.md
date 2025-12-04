@@ -1,7 +1,7 @@
 ---
 title: "Beyond Video-to-SFX: Video to Audio Synthesis with Environmentally Aware Speech"
 collection: publications
-category: preprint
+category: conference
 permalink: /publication/2025-09-17-paper-title-number-5
 excerpt: 'In submission'
 date: 2025-09-17
